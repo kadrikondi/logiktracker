@@ -1,0 +1,67 @@
+[
+  {
+    "id": "PKG001",
+    "trackingId": "TRK001234567",
+    "recipient": {
+      "name": "John Doe",
+      "phone": "+1234567890",
+      "address": "123 Main St, Anytown, ST 12345"
+    },
+    "status": "pending",
+    "weight": "2.5 kg",
+    "type": "Standard Package",
+    "description": "Electronics - Smartphone"
+  },
+  {
+    "id": "PKG002",
+    "trackingId": "TRK002345678",
+    "recipient": {
+      "name": "Jane Smith",
+      "phone": "+1987654321",
+      "address": "456 Oak Ave, Springfield, ST 67890"
+    },
+    "status": "in-transit",
+    "weight": "1.2 kg",
+    "type": "Express Package",
+    "description": "Documents - Legal Papers"
+  },
+  {
+    "id": "PKG003",
+    "trackingId": "TRK003456789",
+    "recipient": {
+      "name": "Mike Johnson",
+      "phone": "+1122334455",
+      "address": "789 Pine Rd, Riverside, ST 11223"
+    },
+    "status": "delivered",
+    "weight": "5.0 kg",
+    "type": "Heavy Package",
+    "description": "Home Goods - Kitchen Appliance"
+  },
+  {
+    "id": "PKG004",
+    "trackingId": "TRK004567890",
+    "recipient": {
+      "name": "Sarah Wilson",
+      "phone": "+1556677889",
+      "address": "321 Elm St, Lakeside, ST 33445"
+    },
+    "status": "pending",
+    "weight": "0.8 kg",
+    "type": "Standard Package",
+    "description": "Books - Educational Materials"
+  },
+  {
+    "id": "PKG005",
+    "trackingId": "TRK005678901",
+    "recipient": {
+      "name": "David Brown",
+      "phone": "+1998877665",
+      "address": "654 Maple Dr, Hilltown, ST 55667"
+    },
+    "status": "in-transit",
+    "weight": "3.2 kg",
+    "type": "Fragile Package",
+    "description": "Art Supplies - Painting Materials"
+  }
+]
