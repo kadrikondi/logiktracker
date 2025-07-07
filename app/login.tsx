@@ -68,7 +68,7 @@ export default function LoginScreen() {
             <View style={styles.logoContainer}>
               <Package2 size={48} color={theme.colors.primary} />
             </View>
-            <Text style={styles.title}>LogiTrack111</Text>
+            <Text style={styles.title}>LogiTrack</Text>
             <Text style={styles.subtitle}>
               Welcome back! Sign in to continue tracking your packages.
             </Text>

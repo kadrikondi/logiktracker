@@ -13,6 +13,9 @@ Before you begin, ensure you have the following installed:
   - iOS: Xcode or a physical device with Expo Go installed.
   - Web: A modern web browser.
 
+  SEE THE APP 
+  [![Watch the video](https://img.youtube.com/vi/7sNCbjW80G0/0.jpg)](https://youtube.com/shorts/7sNCbjW80G0)
+
 ## Installation
 
 1. Clone the repository:
